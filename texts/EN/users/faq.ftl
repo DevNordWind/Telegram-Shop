@@ -1,0 +1,1 @@
+default-faq = <b>❔ FAQ text is not specified. Change it in the bot settings.</b>

@@ -1,0 +1,9 @@
+errors = Errors
+    .invalid-number-msg = <b>❌ Enter a number</b>
+    .invalid-int-msg = <b>❌ Enter an integer</b>
+    .unauthorized-closing-msg = <b>❌ This window can be closed using the <code>X Close</code> button</b>
+    .file-is-to-big-msg = <b>❌ File size must not exceed <code>20MB</code></b>
+    .html-error-msg = <b>❌ HTML syntax error</b>
+    .unexpected-error-msg = <b>🤯 Unknown error. Please try again!</b>
+    .format-error = <b>❌ Formatting error when inserting variables</b>
+    .fail_order_create = <b>❌ There was an error while generating an invoice. Please try again after some time or contact technical support.</b>

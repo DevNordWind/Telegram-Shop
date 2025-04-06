@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "shop[rewritten]"
+version = "0.1.0"
+description = ""
+authors = ["Developer <dev.ivanzakharov1884@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+aiogram-dialog = "2.3.1"
+aiogram = "^3.17.0"
+aiocryptopay = "^0.4.7"
+sqlalchemy = "^2.0.40"
+dishka = "^1.5.2"
+fluentogram = "^1.1.10"
+redis = "^5.2.1"
+adaptix = "^3.0.0b9"
+colorlog = "^6.9.0"
+python-dotenv = {extras = ["cli"], version = "^1.0.1"}
+alembic = "^1.15.2"
+asyncpg = "^0.30.0"
+cryptography = "^44.0.1"
+fastapi = "^0.115.11"
+uvicorn = "^0.34.0"
+aiosqlite = "^0.21.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
