@@ -35,7 +35,7 @@ async def attempt_media_answer(
 
     try:
         return await helper.send_media(
-            chat_id=event.from_user.id,
+            chat_id=event.chat.id,
             file_id=bot_settings.start_media_id,
             file_path=bot_settings.start_media_path,
             caption=text,

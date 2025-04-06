@@ -1,0 +1,111 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"bfa3e83b-f686-4c3e-96db-ef60219a67c2\" name=\"Changes\" comment=\"First Commit\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Fluent File\" />\n        <option value=\"Python Script\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"HighlightingSettingsPerFile\">\n    <setting file=\"file://$USER_HOME$/.cache/pypoetry/virtualenvs/shop[rewritten]-jG4wUGox-py3.12/lib/python3.12/site-packages/aiogram_dialog/widgets/input/text.py\" root0=\"SKIP_INSPECTION\" />\n    <setting file=\"file://$USER_HOME$/.cache/pypoetry/virtualenvs/shop[rewritten]-jG4wUGox-py3.12/lib/python3.12/site-packages/aiogram_dialog/widgets/widget_event.py\" root0=\"SKIP_INSPECTION\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;customColor&quot;: &quot;&quot;,\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2sdx4jfg8qJRAgm9qZL3mlsJKCQ\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;Python.dispatcher.executor&quot;: &quot;Run&quot;,\n    &quot;Python.is_reg_md.executor&quot;: &quot;Run&quot;,\n    &quot;Python.src.bot.executor&quot;: &quot;Run&quot;,\n    &quot;Python.test_bot.executor&quot;: &quot;Run&quot;,\n    &quot;Python.test_db.executor&quot;: &quot;Run&quot;,\n    &quot;Python.user.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/nordwind/Desktop/TelegramProjects/Shop[Rewritten]&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/bot/handlers\" />\n      <recent name=\"$PROJECT_DIR$/src/bot/dialogs/service\" />\n      <recent name=\"$PROJECT_DIR$/src/payments/models\" />\n      <recent name=\"$PROJECT_DIR$\" />\n      <recent name=\"$PROJECT_DIR$/migrations\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/src/bot/dialogs/service\" />\n      <recent name=\"$PROJECT_DIR$/src/bot/outer_middlewares\" />\n      <recent name=\"$PROJECT_DIR$/src/bot/utilities\" />\n      <recent name=\"$PROJECT_DIR$/data\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Python.src.bot\">\n    <configuration name=\"src.bot\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"Shop[Rewritten]\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"SDK_NAME\" value=\"Poetry (Shop[Rewritten])\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/\" />\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"net.ashald.envfile\">\n        <option name=\"IS_ENABLED\" value=\"true\" />\n        <option name=\"IS_SUBST\" value=\"false\" />\n        <option name=\"IS_PATH_MACRO_SUPPORTED\" value=\"false\" />\n        <option name=\"IS_IGNORE_MISSING_FILES\" value=\"false\" />\n        <option name=\"IS_ENABLE_EXPERIMENTAL_INTEGRATIONS\" value=\"false\" />\n        <ENTRIES>\n          <ENTRY IS_ENABLED=\"true\" PARSER=\"runconfig\" IS_EXECUTABLE=\"false\" />\n          <ENTRY IS_ENABLED=\"true\" PARSER=\"env\" IS_EXECUTABLE=\"false\" PATH=\".env\" />\n        </ENTRIES>\n      </EXTENSION>\n      <option name=\"SCRIPT_NAME\" value=\"src.bot\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"true\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"test_bot\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\n      <module name=\"Shop[Rewritten]\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/src\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/src/test_bot.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"test_db\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\n      <module name=\"Shop[Rewritten]\" />\n      <option name=\"ENV_FILES\" value=\"\" />\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\n      <option name=\"PARENT_ENVS\" value=\"true\" />\n      <envs>\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\n      </envs>\n      <option name=\"SDK_HOME\" value=\"\" />\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\n      <EXTENSION ID=\"net.ashald.envfile\">\n        <option name=\"IS_ENABLED\" value=\"true\" />\n        <option name=\"IS_SUBST\" value=\"false\" />\n        <option name=\"IS_PATH_MACRO_SUPPORTED\" value=\"false\" />\n        <option name=\"IS_IGNORE_MISSING_FILES\" value=\"false\" />\n        <option name=\"IS_ENABLE_EXPERIMENTAL_INTEGRATIONS\" value=\"false\" />\n        <ENTRIES>\n          <ENTRY IS_ENABLED=\"true\" PARSER=\"runconfig\" IS_EXECUTABLE=\"false\" />\n          <ENTRY IS_ENABLED=\"true\" PARSER=\"env\" IS_EXECUTABLE=\"false\" PATH=\".env\" />\n        </ENTRIES>\n      </EXTENSION>\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/test_db.py\" />\n      <option name=\"PARAMETERS\" value=\"\" />\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\n      <option name=\"MODULE_MODE\" value=\"false\" />\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\n      <option name=\"INPUT_FILE\" value=\"\" />\n      <method v=\"2\" />\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Python.test_bot\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-337b0a7a993a-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19416.19\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"bfa3e83b-f686-4c3e-96db-ef60219a67c2\" name=\"Changes\" comment=\"\" />\n      <created>1738799065120</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1738799065120</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"First commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1738808758609</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1738808758609</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Second commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739055409413</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739055409413</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Third commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1739150276334</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1739150276334</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"First Commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1743913096802</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1743913096802</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"5\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"First commit\" />\n    <MESSAGE value=\"Second commit\" />\n    <MESSAGE value=\"Third commit\" />\n    <MESSAGE value=\"First Commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First Commit\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$PROJECT_DIR$/src/payments/managers/abstract.py</url>\n          <line>8</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$USER_HOME$/.cache/pypoetry/virtualenvs/shop[rewritten]-jG4wUGox-py3.12/lib/python3.12/site-packages/aiogram/exceptions.py</url>\n          <line>125</line>\n          <option name=\"timeStamp\" value=\"3\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\n          <url>file://$PROJECT_DIR$/src/bot/utilities/media_helper/managers/abstract.py</url>\n          <line>39</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 48f9309f54d9475e963929a9aae15ab02603f233)
++++ b/.idea/workspace.xml	(date 1743914330676)
+@@ -4,7 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="bfa3e83b-f686-4c3e-96db-ef60219a67c2" name="Changes" comment="First Commit" />
++    <list default="true" id="bfa3e83b-f686-4c3e-96db-ef60219a67c2" name="Changes" comment="First Commit">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -26,6 +28,18 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
++  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
++  "lastFilter": {
++    "state": "OPEN",
++    "assignee": "DevNordWind"
++  }
++}]]></component>
++  <component name="GithubPullRequestsUISettings"><![CDATA[{
++  "selectedUrlAndAccountId": {
++    "url": "https://github.com/DevNordWind/Telegram-Shop.git",
++    "accountId": "97b13a7b-8210-4c18-9bab-4663b736f68f"
++  }
++}]]></component>
+   <component name="HighlightingSettingsPerFile">
+     <setting file="file://$USER_HOME$/.cache/pypoetry/virtualenvs/shop[rewritten]-jG4wUGox-py3.12/lib/python3.12/site-packages/aiogram_dialog/widgets/input/text.py" root0="SKIP_INSPECTION" />
+     <setting file="file://$USER_HOME$/.cache/pypoetry/virtualenvs/shop[rewritten]-jG4wUGox-py3.12/lib/python3.12/site-packages/aiogram_dialog/widgets/widget_event.py" root0="SKIP_INSPECTION" />
+@@ -40,19 +54,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;Python.dispatcher.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.is_reg_md.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.src.bot.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.test_bot.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.test_db.executor&quot;: &quot;Run&quot;,
+-    &quot;Python.user.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/home/nordwind/Desktop/TelegramProjects/Shop[Rewritten]&quot;,
+-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "Python.dispatcher.executor": "Run",
++    "Python.is_reg_md.executor": "Run",
++    "Python.src.bot.executor": "Run",
++    "Python.test_bot.executor": "Run",
++    "Python.test_db.executor": "Run",
++    "Python.user.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "main",
++    "last_opened_file_path": "/home/nordwind/Desktop/TelegramProjects/Shop[Rewritten]",
++    "settings.editor.selected.configurable": "preferences.lookFeel"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/src/bot/handlers" />
+@@ -212,7 +227,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1743913096802</updated>
+     </task>
+-    <option name="localTasksCounter" value="5" />
++    <task id="LOCAL-00005" summary="First Commit">
++      <option name="closed" value="true" />
++      <created>1743913907436</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1743913907436</updated>
++    </task>
++    <option name="localTasksCounter" value="6" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -220,7 +243,19 @@
+       <map>
+         <entry key="MAIN">
+           <value>
+-            <State />
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="main" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
+           </value>
+         </entry>
+       </map>

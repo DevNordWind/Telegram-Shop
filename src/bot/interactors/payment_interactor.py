@@ -1,4 +1,3 @@
-import logging
 from contextlib import suppress
 
 from aiogram import Bot
